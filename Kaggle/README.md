@@ -1,1 +1,1 @@
-# Preparing machine learning models on Kaggle data sets to increase accuracy
+# Preparing and comparing different machine learning models on Kaggle data sets
